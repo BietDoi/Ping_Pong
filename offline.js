@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1587435830,
+	"version": 1587461204,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -10,6 +10,10 @@
 		"images/playerbar-sheet0.png",
 		"images/computerbar-sheet0.png",
 		"images/line_center-sheet0.png",
+		"media/collisionbing.m4a",
+		"media/collisionbing.ogg",
+		"media/coin sound effect.m4a",
+		"media/coin sound effect.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
